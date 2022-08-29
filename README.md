@@ -29,8 +29,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL:
-- Live Site URL:
+- Solution URL: https://github.com/ManaIsrael/chat-app-illustration
+- Live Site URL: https://github.com/ManaIsrael/chat-app-illustration
 
 ## My process
 
