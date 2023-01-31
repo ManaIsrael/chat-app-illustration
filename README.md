@@ -30,7 +30,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: https://github.com/ManaIsrael/chat-app-illustration
-- Live Site URL: https://github.com/ManaIsrael/chat-app-illustration
+- Live Site URL: https://manaisrael.github.io/chat-app-illustration/
 
 ## My process
 
